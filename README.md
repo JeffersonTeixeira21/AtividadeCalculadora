@@ -1,2 +1,2 @@
 # AtividadeCalculadora
-Uma atividade em grupo, feita no programa GoDev na Senior Sistema
+Uma atividade em grupo, feita no programa GoDev na Senior Sistemas
